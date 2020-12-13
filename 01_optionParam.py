@@ -21,8 +21,15 @@ whip = car("Ford", "Fusion", 2012)
 whip.display()
 whip.display(False)
 
+mycar = car("Lamborgihni", "Gallardo", 2200, "old", 40000)
+
+mycar.display()
+mycar.display(False)
+
 '''
 Output:
 This car is a Ford Fusion from 2012, it is New and has 0 kms.
 This car is a Ford Fusion from 2012.
+This car is a Lamborgihni Gallardo from 2200, it is old and has 40000 kms.
+This car is a Lamborgihni Gallardo from 2200.
 '''

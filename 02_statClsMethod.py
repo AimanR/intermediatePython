@@ -24,13 +24,13 @@ newPerson = person('Aiman',25)
 print(newPerson.population)
 print(person.population)
 
-print()
+print() # line gap
 
 # using class method
 print(newPerson.getPopulation())
 print(person.getPopulation())
 
-print()
+print() # line gap
 
 # using static method
 print(newPerson.isAdult(25))

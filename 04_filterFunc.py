@@ -17,5 +17,9 @@ c = list( map( add7,b ) )
 print(c)
 
 # the entire work done above can be done using list comprehension
+print("Can also be done using list comprehension :")
 d = [add7(x) for x in a if isOdd(x)]
 print(d)
+
+# filter function takes to things as parameters, a function and a list
+# returns a list of booleans, True if the function(list[i]) is True, False if its False 

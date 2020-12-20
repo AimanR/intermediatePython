@@ -16,7 +16,7 @@ class dog(object):
     def add_weight(self, weight):
         self.weight = weight
         
-aiman = dog('aiman',22)
+aiman = dog('aiman',22) 
 daiman = dog('daiman',33)
 
 aiman.speak()

@@ -8,3 +8,4 @@ Links to the youtube tutorials I followed :
 (2) OOP tutorial link : https://www.youtube.com/watch?v=v_Jp11xqCzg&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=1
 
 (3) Webscraping tutorial link : https://www.youtube.com/watch?v=4F2m91eKmts&fbclid=IwAR1XrmAcxoPjOC5gAxo1EGjklPDL8jEFipF2DNpKZF7vCb72mL72c77Gs4c
+( Webscraping tutorail at 4:03:03 )
